@@ -1,0 +1,24 @@
+{
+  "modules": [
+    {
+      "name": "Powercord Together",
+      "description": "⚠️ Disclaimer ⚠️ - A plugin that makes it easy to watch YouTube, play Poker and many others games together on Discord!",
+      "version": "1.0.0",
+      "tags": ["discord-together", "youtube"],
+      "authors": [
+        {
+          "n": "notsapinho"
+        }
+      ],
+      "github": { "stars": 65, "repo": "notsapinho/powercord-together" },
+      "lastUpdated": 1657065600,
+      "images": [
+        "https://camo.githubusercontent.com/20ac85083eeb2aa13e5cfb9e56b075fd06d974ffc1cca9698a8bd66d35322c41/68747470733a2f2f692e696d6775722e636f6d2f733579327045592e676966"
+      ]
+    }
+  ],
+  "meta": {
+    "name": "Extra GooseMod/Powercord Plugins 👷",
+    "description": "Extra GooseMod Repo 👷"
+  }
+}
