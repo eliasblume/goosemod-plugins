@@ -16,6 +16,20 @@
       "images": [
         "https://camo.githubusercontent.com/20ac85083eeb2aa13e5cfb9e56b075fd06d974ffc1cca9698a8bd66d35322c41/68747470733a2f2f692e696d6775722e636f6d2f733579327045592e676966"
       ]
+    },
+    {
+      "name": "double-click-voice-channels",
+      "description": "A Powercord plugin that requires you to double-click voice channels to join them.",
+      "version": "1.0.0",
+      "tags": ["voice", "double-click"],
+      "authors": [
+        {
+          "n": " D3SOX "
+        }
+      ],
+      "hash": "",
+      "github": { "stars": 1, "repo": "D3SOX/double-click-voice-channels" },
+      "lastUpdated": 1657065600
     }
   ],
   "meta": {
